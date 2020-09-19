@@ -9,19 +9,18 @@ password: password
 
 Addons:
 
-    filesystem support: hfs hfsplus ntfs
+    filesystem support: hfs hfsplus ntfs squ
     command: htop
     adbyby (ad blocker)
-    ssr-plus
-    clash
-    passwall
+    s5r-plus
+    c1ash
     watchcat
-    frpc(frp client)
-    unblockmusic(go version)
+    frpc (frp client)
+    unblockmusic (go version)
     kms-server
     wake on lan
     transmission
-    p910nd(print server)
+    p910nd (print server)
     zerotier
     ipsec
     wireguard
