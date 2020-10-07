@@ -13,7 +13,7 @@ Addons:
     command: htop
     adbyby (ad blocker)
     s5r-plus
-    c1ash
+    jd-dailybonus
     watchcat
     frpc (frp client)
     unblockmusic (go version)
