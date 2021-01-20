@@ -111,8 +111,8 @@ jobs:
         cd openwrt/bin/targets/*/*
         rm -rf packages
         echo "FIRMWARE=$PWD" >> $GITHUB_ENV
+        echo "date=$(date +%Y-%m-%d)" >> $GITHUB_ENV
         echo "::set-output name=status::success"
-
     - name: Upload To Github Release
       uses: xresloader/upload-to-github-release@v1.1.2
       env:
