@@ -9,20 +9,17 @@ password: password
 
 Addons:
 
-    filesystem support: hfs hfsplus ntfs squ
-    command: htop
-    adbyby (ad blocker)
+    filesystem support: hfs hfsplus ntfs btrfs
+    command: htop nano
+    aria2
+    adbyby
     s5r-plus
-    jd-dailybonus
-    watchcat
-    frpc (frp client)
-    unblockmusic (go version)
-    kms-server
+    pushbot
+    frpc
+    vlmcsd
     wake on lan
-    transmission
-    p910nd (print server)
+    print server
     zerotier
-    ipsec
     wireguard
 
 
